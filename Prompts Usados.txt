@@ -1,0 +1,13 @@
+ChatGPT 3.5
+
+Crie para mim um texto em  capítulo enxutos e concisos, sobre os principais passas que tem que aprender na linguagem Python, para um público iniciante que está começando AGORA no mundo da programação, explique de forma fácil e coesa para que até uma criança de 10 anos possa entender.
+
+[Regras]
+> Não pode criar algo que não existe realmente no Python
+> Todas as informações tem que ser verdadeiras.
+
+Copilot (rodando o chatGPT 3.5)
+
+A ninja who has mastered the knowledge of Python programming, standing in a dynamic pose with a Python code scroll in one hand and a katana in the other. The ninja is surrounded by Python code snippets floating in the air, symbolizing his mastery over Python programming.
+
+#Prompt usado em inglês para melhor resultado de imagem#
